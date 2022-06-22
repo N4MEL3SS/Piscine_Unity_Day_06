@@ -221,7 +221,7 @@ public class PlayerScript : MonoBehaviour
 		if (Input.GetKey(KeyCode.E))
 		{
 			_takePaper = true;
-			GameManager.gm.SetMsg("Well DONE Agent, Go out KNOW");
+			GameManager.gm.SetMsg("Well DONE Agent, Go out NOW");
 		}
 	}
 	
